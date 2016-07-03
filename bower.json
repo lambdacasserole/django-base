@@ -1,0 +1,19 @@
+{
+  "name": "lambdacasserole/django-base",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lambdacasserole/django-base",
+  "authors": [
+    "Saul Johnson <saul.a.johnson@gmail.com>"
+  ],
+  "description": "Basic Django project for a simple website.",
+  "keywords": [
+    "basic",
+    "django",
+    "simple",
+    "website"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
