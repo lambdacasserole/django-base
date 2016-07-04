@@ -17,5 +17,16 @@ from django.conf.urls import url
 # from django.contrib import admin
 
 urlpatterns = [
+    url(r'^$', 'frontend.views.index'),
+    url(r'contact$', 'frontend.views.contact'),
+    url(r'linkedin$', 'frontend.views.linkedin'),
+    url(r'twitter', 'frontend.views.twitter'),
+    url(r'github', 'frontend.views.github'),
+    url(r'privacy$', 'frontend.views.privacy'),
+    url(r'terms$', 'frontend.views.terms'),
+    url(r'project_1', 'frontend.views.project_1'),
+    url(r'project_2', 'frontend.views.project_2'),
+    url(r'project_3', 'frontend.views.project_3'),
+    url(r'blog$', 'frontend.views.blog'),
     # url(r'^admin/', admin.site.urls),
 ]
