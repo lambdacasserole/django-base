@@ -1,6 +1,8 @@
-CONTACT_FORM_TARGET = ""
-LINKEDIN_URL = ""
-TWITTER_URL = ""
-GITHUB_URL = ""
-BLOGGER_URL = ""
-BLOGGER_ATOM_URL = ""
+# Don't commit this file to source control, it contains your secret settings.
+
+CONTACT_FORM_TARGET = "" # This is the email address that contact form correspondence will be send to.
+LINKEDIN_URL = "" # The URL of your LinkedIn profile.
+TWITTER_URL = "" # The URL of your Twitter profile.
+GITHUB_URL = "" # The URL of your GitHub profile.
+BLOGGER_URL = "" # The URL of your blog on Blogger.
+BLOGGER_ATOM_URL = "" # The URL of your blog's Atom feed on Blogger.
