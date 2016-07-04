@@ -10,6 +10,7 @@ You'll also need [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.c
 
 ## Configuration
 A couple of files need changing to get the site working for you.
+
 1. Copy `sensitive.py.dist` and rename it to `sensitive.py`. Fill in the fields according to their descriptions and save.
 2. Locate `blog.coffee` and fill in the `blogId` and `apiKey` fields to get your blog working.
 
