@@ -3,7 +3,7 @@ Basic Django project for a simple website.
 
 I'm presenting here a clean (-ish) starting point for a website written in Python on Django. This is the stripped-down and skeletonised version of my old personal website which was a cool experiment in Django but otherwise pretty unimpressive. I've since moved on.
 
-![GitHub Logo](https://raw.githubusercontent.com/lambdacasserole/django-base/master/screenshot.png)
+![GitHub Logo](https://raw.githubusercontent.com/lambdacasserole/django-base/master/screenshot_small.png)
 
 ## Prerequisites
 You'll need to have Python 2 and Django installed and configured for this to work. The [Python](https://www.python.org/downloads/) and [Django](https://docs.djangoproject.com/en/1.9/topics/install/) websites have some pretty good tutorials on this. Once you've done that you can proceed.
